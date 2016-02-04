@@ -11,4 +11,4 @@ Let's assume you want to do an inline style in your html code, here is how you g
 echo ht_div('The text in the div', ['class' => 'myCustomDiv', 'id' => 'myDivId');
 ```
 
--------------x-------------
+------------------------------
