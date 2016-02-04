@@ -1,15 +1,10 @@
 <?php
 /**
- * ANTI-HTML<br>
+ * antiHTML<br>
  * 
- * Anti-HTML is an HTML Generator.<br>
+ * It is an HTML Generator.<br>
  * Supports all HTML5 tags.
  * 
- * @version     1.0.0
- * @author      David Okedion <writedaok@gmail.com>
- * @link        https://github.com/davidokedion
- * @link        https://www.facebook.com/davidokedion
- * @copyright   2015 Pro Internet Solutions
  */
 
 /**
